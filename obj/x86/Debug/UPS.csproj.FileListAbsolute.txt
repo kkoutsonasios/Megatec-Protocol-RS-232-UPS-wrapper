@@ -1,0 +1,5 @@
+C:\Users\neo_kk\Documents\Reflector\Disassembler\UPS\obj\x86\Debug\UPS.csprojResolveAssemblyReference.cache
+C:\Users\neo_kk\Documents\Reflector\Disassembler\UPS\bin\Debug\UPS.dll
+C:\Users\neo_kk\Documents\Reflector\Disassembler\UPS\bin\Debug\UPS.pdb
+C:\Users\neo_kk\Documents\Reflector\Disassembler\UPS\obj\x86\Debug\UPS.dll
+C:\Users\neo_kk\Documents\Reflector\Disassembler\UPS\obj\x86\Debug\UPS.pdb
